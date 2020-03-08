@@ -1,0 +1,66 @@
+header {
+  font-family: 'Permanent Marker', cursive;
+}
+
+p {
+  font-family: 'Shadows Into Light', cursive;
+}
+header nav {
+  display: flex;
+  justify-content: flex-end;
+
+}
+header p {
+  padding: 0 20px;
+  margin: 0;
+  font-size: 20px;
+}
+.jumbotron h2{
+   font-family: 'Permanent Marker', cursive;
+   color:white;
+}
+.jumbotron{
+   display: flex;
+  align-items: center;
+  background-image: url('https://i.ibb.co/4ZVjp0H/cows.jpg');
+  height: 500px;
+  background-size: cover;
+  color: #ffffff;
+  text-shadow: 0.25px 0.25px 0.25px #000000;
+}
+.jumbotron h3{
+   font-family: 'Shadows Into Light', cursive;
+}
+.btn.btn-primary {
+  font-family: 'Shadows Into Light', cursive;
+  border-radius: 2px;
+  border: 0px;
+  color: white;
+  text-shadow: none;
+  background-color: black;
+}
+.cows{
+  background-image: url('https://i.ibb.co/jTzRX1Y/luna.jpg');
+  background-size: cover;
+  height: 500px;
+  font-family: 'Permanent Marker', cursive;
+  color: white;
+ 
+}
+.ducks{
+  background-image: url('https://i.ibb.co/KX6BQZ4/ducks-in-snow.jpg');
+   background-size: cover;
+   height: 500px;
+   font-family: 'Permanent Marker', cursive;
+  
+   }
+  
+  .btn-secondary {
+  font-family: 'Shadows Into Light', cursive;
+  border-radius: 2px;
+  border: 0px;
+  color: white;
+  text-shadow: none;
+  background-color: black;
+    
+}
